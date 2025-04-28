@@ -7,3 +7,4 @@ fun Double.Companion.printClassName() {
 fun main() {
     Double.printClassName()
 }
+
